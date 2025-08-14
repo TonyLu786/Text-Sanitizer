@@ -1,5 +1,6 @@
-# Text-Sanitizer
+# Text-Sanitizer    文本日期、数字信息脱敏处理器
 A powerful, multilingual text sanitization tool that removes sensitive information while preserving text structure and format. Perfect for data anonymization, privacy protection, and content preprocessing.
+一个强大的、支持多语言的文本脱敏处理工具，可以去除文本中的敏感信息且保持原文本结构与内容。完美设计用于数据脱敏化，隐私保护与文本预处理（AIGC处理前）
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/TonyLu786/text-sanitizer/main/assets/logo.png" width="400"/>
