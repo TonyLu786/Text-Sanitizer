@@ -1,0 +1,18 @@
+{
+    "languages": {
+        "zh": {
+            "name": "Chinese",
+            "code": "zh",
+            "description": "Simplified Chinese text sanitization"
+        },
+        "en": {
+            "name": "English",
+            "code": "en",
+            "description": "English text sanitization"
+        }
+    },
+    "default_settings": {
+        "max_workers": 10,
+        "log_level": "INFO"
+    }
+}
